@@ -5,4 +5,5 @@
   * [library reservation](https://github.com/maurofokker/spring-microservices-library-reservation)
   * [library catalog](https://github.com/maurofokker/spring-microservices-library-catalog)
   * [library discovery & registry](https://github.com/maurofokker/spring-microservices-library-registry)
+  * [library edge service](https://github.com/maurofokker/spring-microservices-library-edge)
 * Microservices reference can be found [here](https://github.com/maurofokker/microservices-demo)
